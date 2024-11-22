@@ -13,5 +13,6 @@ pip install py-ansi3
 import pyansi3
 from pyansi3 import PyANSI, print_colored
 
-print_colored("red {red} background blue {blue_bg}")
+print_colored("red {red}tttt {reset} background blue {blue_bg}tttt")
 ```
+- and you can use {reset} to reset the color to the default color
