@@ -1,5 +1,5 @@
 # PyANSI3
-- PyANSI3 is a basic python library you can found it on [PyPI](https://pypi.org/projects/py-ansi3/1.1.0)
+- PyANSI3 is a basic python library you can found it on [PyPI](https://pypi.org/project/py-ansi3)
 - Package Owner & Creator: **MohamedLunar** (me)
 # Package Guide
 ## #1 Installation Guide
